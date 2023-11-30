@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CombinedApp</string>
+    <string name="hello_message">Hello world!\n</string>
+</resources>
